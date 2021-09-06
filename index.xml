@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Arnab Chakraborty</title>
+    <link>https://iam-arnab.github.io/blog/</link>
+    <description>Recent content on Arnab Chakraborty</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© 2021. All rights reserved.</copyright><atom:link href="https://iam-arnab.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://iam-arnab.github.io/blog/about/</link>
+      <pubDate>Thu, 22 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://iam-arnab.github.io/blog/about/</guid>
+      <description>Hello, I&amp;rsquo;m Arnab Chakraborty. I love programming (and have been programming since 13), anime, open source psychology and philosophy. I find these topics and ideas really fascinating, inspiring and amazing. I&amp;rsquo;m currently a student preparing for an entrance.
+In this blog I plan to share my various opinions and analysis, along with interesting technology stuff.
+P.S. I love GNU/Linux :)</description>
+      <content>&lt;p&gt;Hello, I&amp;rsquo;m Arnab Chakraborty. I love programming (and have been programming since 13), anime, open source psychology and philosophy. I find these topics and ideas really fascinating, inspiring and amazing. I&amp;rsquo;m currently a student preparing for an entrance.&lt;/p&gt;
+&lt;p&gt;In this blog I plan to share my various opinions and analysis, along with interesting technology stuff.&lt;/p&gt;
+&lt;p&gt;P.S. I love GNU/Linux :)&lt;/p&gt;
+</content>
+    </item>
+    
+  </channel>
+</rss>
